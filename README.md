@@ -1,4 +1,4 @@
-# Face-Mask-Detection
+# Face Mask Detection using ML
 
 Face Mask Detection Mini Project.
 
