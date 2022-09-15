@@ -10,3 +10,11 @@ This project increases the demand for an efficient system for detecting face mas
 people for transportation means, densely populated areas, residential districts, large-scale
 manufacturers and other enterprises to ensure safety. This project uses machine learning
 classification using OpenCV and Tensorflow to detect face masks on people.
+
+## Evaluation of Model
+
+The model trains on 20 Epochs on 32 batch sizes using Adam optimizer with learning rate 0.0001. Using 3,064 training images and 766 testing images, the model achieves more than 95% accuracy with minimum training loss.
+
+The plot given below evidently shows the training accuracy and loss of the model.
+
+![image](plot.png)
