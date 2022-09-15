@@ -18,3 +18,19 @@ The model trains on 20 Epochs on 32 batch sizes using Adam optimizer with learni
 The plot given below evidently shows the training accuracy and loss of the model.
 
 ![image](plot.png)
+
+
+## Result
+
+This is a model developed for face mask detection based on deep learning,implemented using open-source python libraries. Here the model can detect people whether they’re wearing mask or not from the real time video as shown in figure . The result shown will be ”Mask” or ”No Mask” depending on whether the person is wearing mask or not while video streaming. 
+
+### No Mask
+
+![image](without_mask.png)
+
+### With Mask
+
+![image](with_mask.png)
+
+
+
